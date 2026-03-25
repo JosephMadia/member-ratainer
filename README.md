@@ -18,7 +18,7 @@ A React Native project bootstrapped with `@react-native-community/cli`.
 ### Create a new project with the same setup
 
 ```bash
-npx @react-native-community/cli@latest init ForTesting --version 0.84.1
+npx @react-native-community/cli@latest init {{ProjectName}} --version 0.84.1
 cd MyApp
 ```
 
